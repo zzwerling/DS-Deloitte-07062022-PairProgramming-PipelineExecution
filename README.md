@@ -74,3 +74,16 @@ You will be able to:
         </td>
     </tr>
 </table>
+
+9. Don't forget to stop the notebook instance (!):
+
+<table>
+    <tr>
+        <td>
+            <img src="./images/stop-notebook.png"/> 
+        </td>
+        <td>
+            <img src="./images/stopping.png"/>
+        </td>
+    </tr>
+</table>
