@@ -68,6 +68,7 @@ You will be able to:
     <tr>
         <td>
             <img src="./images/studio-interface-1.png"/> 
+            <figcaption>Click the `SageMaker resources` icon in the navigation pane (as shown), then select `Pipelines` from the dropdown.</figcaption>
         </td>
         <td>
             <img src="./images/studio-interface-2.png"/>
