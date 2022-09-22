@@ -62,13 +62,12 @@ You will be able to:
     </tr>
 </table>
 
-**Note:** *Double-click on the execution shown in your list of pipeline executions in order to open its correspojnding DAG; refresh, if necessary:*
+**Note:** *Click the `SageMaker resources` icon in the navigation pane (as shown), then select `Pipelines` from the dropdown. Double-click on the execution shown in the resulting list of pipeline executions in order to open its corresponding DAG; refresh, if necessary:*
 
 <table>
     <tr>
         <td>
             <img src="./images/studio-interface-1.png"/> 
-            <figcaption>Click the `SageMaker resources` icon in the navigation pane (as shown), then select `Pipelines` from the dropdown.</figcaption>
         </td>
         <td>
             <img src="./images/studio-interface-2.png"/>
