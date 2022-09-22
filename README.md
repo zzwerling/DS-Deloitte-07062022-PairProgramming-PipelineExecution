@@ -39,7 +39,7 @@ You will be able to:
 
 5. Double-click on the uploaded notebook:
 
-![](.images/open-notebook.png)
+![](./images/open-notebook.png)
 
 6. Run all cells:
 
