@@ -47,12 +47,30 @@ You will be able to:
 
 7. Scroll down, then uncomment and run each of the Pipeline Execution steps, which will take about 15 minutes.
 
+![](./images/pipeline-execution-steps.png)
+
 8. Monitor pipeline execution progress using the SageMaker Studio interface:
 
-![](./images/studio.png)
+<table>
+    <tr>
+        <td>
+            <img src="./images/studio.png"/> 
+        </td>
+        <td>
+            <img src="./images/open-studio.png"/>
+        </td>
+    </tr>
+</table>
 
-![](./images/open-studio.png)
+**Note:** *Double-click on the execution shown in your list of pipeline executions in order to open its correspojnding DAG; refresh, if necessary:*
 
-![](./images/studio-interface-1.png)
-
-![](./images/studio-interface-2.png)
+<table>
+    <tr>
+        <td>
+            <img src="./images/studio-interface-1.png"/> 
+        </td>
+        <td>
+            <img src="./images/studio-interface-2.png"/>
+        </td>
+    </tr>
+</table>
