@@ -12,5 +12,3 @@ You will be able to:
 - Define a set of Pipeline parameters that can be used to parametrize a SageMaker Pipeline
 - Execute steps that create a model from the model artifacts used in training
 - Perform batch transformation based on the model that was created
-
-**Note:** *The [solution branch](https://github.com/flatiron-school/DS-Deloitte-07062022-PairProgramming-PipelineExecution/tree/solution) provides a more detailed walkthrough of how to approach this exercise.*
