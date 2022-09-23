@@ -1,16 +1,7 @@
 # Pair Programming: Pipeline Execution on AWS
 
-## Introduction
+## Submission Instructions
 
-In this exercise, you'll work with a partner to replicate the workflow covered in the [Pipeline Creation](https://github.com/flatiron-school/DS-Deloitte-07062022-Architecting-Pipelines-with-AWS/blob/main/Pipeline%20Creation.ipynb) and [Pipeline Execution](https://github.com/flatiron-school/DS-Deloitte-07062022-Architecting-Pipelines-with-AWS/blob/main/Pipeline%20Execution.ipynb) lectures!
+After having completed the exercise of defining and executing a batch transformation pipeline on AWS (!), please answer the questions provided in this notebook, push your answers up to your forked/cloned version of this repo and submit the URL [here](https://my.learn.co/courses/543/quizzes/5294?module_item_id=70461).
 
-## Objectives
-
-You will be able to:
-
-- Generate a directed acyclic graph (DAG) in the form of a JSON pipeline definition
-- Define a set of Pipeline parameters that can be used to parametrize a SageMaker Pipeline
-- Execute steps that create a model from the model artifacts used in training
-- Perform batch transformation based on the model that was created
-
-**Note:** *The [solution branch](https://github.com/flatiron-school/DS-Deloitte-07062022-PairProgramming-PipelineExecution/tree/solution) provides a more detailed walkthrough of how to approach this exercise.*
+**Note:** *The [solution branch](https://github.com/flatiron-school/DS-Deloitte-07062022-PairProgramming-PipelineExecution/tree/solution) provides a detailed walkthrough of how to approach this exercise.*
